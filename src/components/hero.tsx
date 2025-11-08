@@ -69,24 +69,6 @@ export default function ThanksgivingHero() {
           <div className="absolute inset-0 bg-gradient-to-b from-black/60 via-black/40 to-black/70" />
         </div>
 
-        <nav className="relative z-20 flex items-center justify-between px-8 py-6">
-          <div className="flex items-center space-x-3">
-            <div className="text-3xl font-bold text-white">
-              <span className="text-amber-400">Kyle G's</span>
-              <div className="text-sm tracking-[0.3em] font-light">PRIME SEAFOOD</div>
-            </div>
-          </div>
-
-          <div className="hidden md:flex items-center space-x-8 text-sm font-medium text-white">
-            <a href="#" className="hover:text-amber-400 transition">MENUS</a>
-            <a href="#" className="hover:text-amber-400 transition">RESERVE A TABLE</a>
-            <a href="#" className="hover:text-amber-400 transition">EVENTS</a>
-            <a href="#" className="hover:text-amber-400 transition">GIFT CARDS</a>
-            <a href="#" className="hover:text-amber-400 transition">PRIVATE DINING</a>
-            <a href="#" className="hover:text-amber-400 transition">SPECIAL OCCASIONS</a>
-            <a href="#" className="hover:text-amber-400 transition">OUR BRANDS</a>
-          </div>
-        </nav>
 
         <div className="relative z-10 flex flex-col items-center justify-center h-[calc(100vh-100px)] text-center px-4">
           <div className="max-w-5xl animate-fade-in">
